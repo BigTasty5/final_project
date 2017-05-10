@@ -1,16 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Ceviche+One');
 
 h1{font-family: 'Press Start 2P', cursive;
 text-align: center;
 }
-h2{margin-left: 10px;
+h2{font-size: 40px;
+margin-left: 10px;
 margin-left: 2em;
-margin-left: 5%;}
+margin-left: 5%;
+font-family: 'Ceviche One', cursive;
+}
 
-h3{font-size: 20px;
+h3{font-size: 25px;
   margin-left: 10px;
   margin-left: 2em;
-  margin-left: 5%;}
+  margin-left: 5%;
+  font-family: 'Ceviche One', cursive;}
 
 p {
 display:block;
@@ -18,7 +23,10 @@ text-align: justify all;
 font-size: 20px;
 margin-left: 10px;
 margin-left: 2em;
-margin-left: 5%;}
+margin-left: 5%;
+margin-right: 10px;
+margin-right: 2em;
+margin-right: 5%;}
 
 body{
  background-image: url("http://vignette1.wikia.nocookie.net/vsbattles/images/6/62/Supershenron.png/revision/latest?cb=2016070613415");
