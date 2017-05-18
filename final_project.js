@@ -1,7 +1,10 @@
 var namespace = "http://www.w3.org/2000/svg"
 
 // Write your code here!
-element.style.background = "url('a.png') 0 100%, url('b.png') 50px 50px ";
+function(){
+  element.style.background = "url('a.png') 0 100%, url('b.png') 50px 50px ";
+}
+
 // DO NOT EDIT CODE BELOW THIS LINE!
 function getX(shape) {
   if (!shape) {
